@@ -637,6 +637,7 @@ ohos_shared_library("absl_cord") {
     ":absl_raw_logging_internal",
     ":absl_spinlock_wait",
     ":absl_stacktrace",
+    ":absl_str_format_internal",
     ":absl_strings",
     ":absl_symbolize",
     ":absl_sync",
